@@ -1,13 +1,9 @@
 this is demo code 
 
-
-
-
-
 we are working on git funtionality
 
 topic coverwd
 oops 
-db
+
 
 need to update code
